@@ -26,4 +26,5 @@ header {
 footer {
     width: 1000px;
     background-color: #ffccff;
+    margin: 0 auto;
 }
